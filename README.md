@@ -53,3 +53,9 @@ The dashboard provides insights into overall bike volume, busiest stations, and 
 ---
 
 ## 📁 Repository Structure
+berlin-bike-mobility-dashboard/
+│
+├── dashboard/
+│ └── Berlin_Bike_Mobility_Dashboard.pbix
+├── screenshots/
+└── README.md
