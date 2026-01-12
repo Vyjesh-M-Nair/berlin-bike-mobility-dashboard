@@ -41,7 +41,7 @@ The dashboard provides insights into overall bike volume, busiest stations, and 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/Berlin_Mobility_Project.pdf)
 
 ---
 
